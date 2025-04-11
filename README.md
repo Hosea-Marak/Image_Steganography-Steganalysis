@@ -1,2 +1,2 @@
 # Image_Steganography-Steganalysis
-Image Processing Project
+Note: The project is solely for academic purpose.
